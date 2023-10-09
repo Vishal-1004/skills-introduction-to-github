@@ -1,4 +1,6 @@
-[Go to Top](#scroll-to-top)
+<a href="#scroll-to-top">
+  <img src="[https://example.com/top.png](https://icon-library.com/images/back-to-top-icon-png/back-to-top-icon-png-5.jpg)" alt="Click here to go to the top" width="200" height="150">
+</a>
 
 <header>
 
